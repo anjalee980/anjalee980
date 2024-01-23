@@ -1,4 +1,5 @@
 <img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://www.freepik.com/free-photo/revenue-operations-collage_71585189.htm#query=data%20science&position=0&from_view=keyword&track=ais&uuid=40ed1bb1-229f-4c03-980c-b67416cb5720)">
+
 <h1 align="center">Hi 👋, I'm Anjali Satasiya</h1>
 - 🌱 I’m currently learning **data science**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
