@@ -1,5 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...]([https://www.google.com/search?q=linkedin+banner+for+data+scientist&rlz=1C1UEAD_enIN932IN932&oq=baner+for+data+s&aqs=chrome.1.69i57j0i22i30j0i390i512i650l4.5114j0j7&sourceid=chrome&ie=UTF-8#imgrc=eBm1fh3c6gM7uM&imgdii=NVUt_7SVaevE1M](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22514.jpg)))](https://anjalee980.io)
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.freepik.com/free-photo/revenue-operations-collage_71585189.htm#query=data%20science&position=0&from_view=keyword&track=ais&uuid=40ed1bb1-229f-4c03-980c-b67416cb5720))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.freepik.com/free-photo/revenue-operations-collage_71585189.htm#query=data%20science&position=0&from_view=keyword&track=ais&uuid=40ed1bb1-229f-4c03-980c-b67416cb5720))]
 
 <h1 align="center">Hi 👋, I'm Anjali Satasiya</h1>
 - 🌱 I’m currently learning **data science**
