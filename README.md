@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?size=626&ext=jpg))](https://rishavchanda.io)
+[![MasterHead]((https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?size=626&ext=jpg))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Anjali Satasiya</h1>
 - 🌱 I’m currently learning **data science**
