@@ -1,4 +1,4 @@
-[![MasterHead]((https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?w=740&t=st=1706117291~exp=1706117891~hmac=940bd379753e1801f47a15ed1ef0d951e63b67ae16e46f5202376fa78dcf6ee2))]
+
 
 <h1 align="center">Hi 👋, I'm Anjali Satasiya</h1>
 - 🌱 I’m currently learning **data science**
